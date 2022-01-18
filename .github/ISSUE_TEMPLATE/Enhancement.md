@@ -1,8 +1,8 @@
 ---
-name: Enhancement
-about: A new feature, or an improvement to an alrady-existing feature
+name: Skill
+about: A new skill request, or updating / reworking existing skills
 title: ''
-labels: 'enhancement'
+labels: 'skill'
 assignees: ''
 ---
 
